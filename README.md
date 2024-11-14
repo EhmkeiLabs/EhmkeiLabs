@@ -72,4 +72,4 @@ To leverage my expertise in cloud security, AI, and automation to create impactf
 
 ## Projects
 - <a href="https://github.com/EhmkeiLabs/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/EhmkeiLabs/Remote-and-Local-Exploitation-Lab">Remote & Local Exploitation Lab</a>
