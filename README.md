@@ -14,7 +14,7 @@ Join me in this evolving tech journey. Let's innovate, secure, and build the fut
 ## Objective
 
 
-To leverage my expertise in cloud security, AI, and automation to create impactful tools and resources that enhance cybersecurity practices, streamline compliance, and provide actionable insights for businesses. Through hands-on projects, innovative solutions, and continuous learning, I aim to empower organizations to achieve resilience and scalability in their cloud environments.
+To leverage my expertise in cyber security, AI, and automation to create impactful tools and resources that enhance cybersecurity practices, streamline compliance, and provide actionable insights for businesses. Through hands-on projects, innovative solutions, and continuous learning, I aim to empower organizations to achieve resilience and scalability in their environments.
 
 ## Skills
 
