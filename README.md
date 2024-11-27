@@ -23,7 +23,7 @@ To leverage my expertise in cyber security, AI, and automation to create impactf
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/EhmkeiLabs/Detection-Lab/tree/main">Detection Lab</a>|
 | Privilege Escalation and Exploitation | <a href="https://github.com/EhmkeiLabs/Remote-and-Local-Exploitation-Lab">Remote & Local Exploitation Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Threat Intelligence Analysis         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
