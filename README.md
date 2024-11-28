@@ -25,7 +25,7 @@ To leverage my expertise in cyber security, AI, and automation to create impactf
 | Privilege Escalation and Exploitation | <a href="https://github.com/EhmkeiLabs/Remote-and-Local-Exploitation-Lab">Remote & Local Exploitation Lab</a>|
 | Threat Intelligence Analysis         | <a href="https://github.com/EhmkeiLabs/Investigation-SOC141/tree/main">Investigation of SOC141 - Phishing URL Detected</a>|
 | Log analysis and traffic investigation.      | <a href="https://github.com/EhmkeiLabs/SOC166---Javascript-Code-Detected-in-Requested-URL">SOC166 Lab - JS Code Detected</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Web Application Security Awareness                  | <a href="https://github.com/EhmkeiLabs/SOC168---Whoami-Command-Detected-in-Request-Body"> SOC168 - Command Injection Detected Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
