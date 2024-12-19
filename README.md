@@ -6,7 +6,9 @@
 I am a passionate cybersecurity professional with a deep interest in cloud security, red teaming, penetration testing, and trading bot development. My journey has taken me through rigorous certifications and hands-on projects, building expertise in both cybersecurity and tech automation. Here, you'll find projects that explore everything from AI-driven threat analysis to algorithmic trading systems.
 
 📜 Certifications: CYSA+, Project+, Security+, and more
+
 🔍 Focus Areas: Cloud security, cybersecurity automation, and algorithmic trading
+
 🚀 Current Projects: Phishing detection AI, futures trading bot, and LLM attack surface analysis
 
 Join me in this evolving tech journey. Let's innovate, secure, and build the future.
