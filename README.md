@@ -64,8 +64,6 @@ To leverage my expertise in cyber security, AI, and automation to create impactf
 <a href="https://www.credly.com/badges/bd1f80f9-e4dd-43cf-9e3b-6cf759ce6bf3/public_url" target="_blank"><img src="https://img.shields.io/badge/-CySA+-blue?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/7add24e6-8331-4224-94f8-a9140ca88451/public_url" target="_blank"><img src="https://img.shields.io/badge/-Network+-blue?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
