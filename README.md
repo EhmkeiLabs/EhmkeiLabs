@@ -27,6 +27,7 @@ To leverage my expertise in cyber security, AI, and automation to create impactf
 | Threat Intelligence Analysis         | <a href="https://github.com/EhmkeiLabs/Investigation-SOC141/tree/main">Investigation of SOC141 - Phishing URL Detected</a>|
 | Log analysis and traffic investigation.      | <a href="https://github.com/EhmkeiLabs/SOC166---Javascript-Code-Detected-in-Requested-URL">SOC166 Lab - JS Code Detected</a>|
 | Web Application Security Awareness                  | <a href="https://github.com/EhmkeiLabs/SOC168---Whoami-Command-Detected-in-Request-Body"> SOC168 - Command Injection Detected Lab</a>|
+| Digital Forensic Analysis            | <a href="https://github.com/EhmkeiLabs/IR-Procedures-Forensics-Analysis">Incident Response, Forensics, Analysis</a>|
 
 ## Tools
 
@@ -73,3 +74,4 @@ To leverage my expertise in cyber security, AI, and automation to create impactf
 - <a href="https://github.com/EhmkeiLabs/Investigation-SOC141">Investigation SOC141</a>
 - <a href="https://github.com/EhmkeiLabs/SOC166---Javascript-Code-Detected-in-Requested-URL">XSS Attack Mitigation</a>
 - <a href="https://github.com/EhmkeiLabs/SOC168---Whoami-Command-Detected-in-Request-Body">Command Injection Detection</a>
+- <a href="https://github.com/EhmkeiLabs/IR-Procedures-Forensics-Analysis">Incident Reponse, Forensics, Analysis</a>
